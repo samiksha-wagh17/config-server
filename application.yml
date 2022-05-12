@@ -1,0 +1,5 @@
+microservice:
+ prakat-service:
+  my-service:
+   endpoint:
+    uri:http://localhost:2000/employee/addNewEmployee
